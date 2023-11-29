@@ -1,7 +1,7 @@
-![Web Designer and Wordpress Developer](https://media.licdn.com/dms/image/D5616AQHUzalrFb7fTQ/profile-displaybackgroundimage-shrink_350_1400/0/1673772248612?e=1706745600&v=beta&t=1xPANdtooEQZ4BwlM34A9Vv_fIXcXSLPCvhHEXU_ZV0)
+![Web Designer and Wordpress Developer](https://media.licdn.com/dms/image/D5616AQHUzalrFb7fTQ/profile-displaybackgroundimage-shrink_350_1400/0/1673772248612?e=1706745600&v=beta&t=1xPANdtooEQZ4BwlM34A9Vv_fIXcXSLPCvhHEXU_ZV0) 
 
-## Hi there 👋, Riad Hossain
-### Web Designer and Wordpress Developer
+### Hi there 👋, Riad Hossain
+#### Web Designer and Wordpress Developer
 
 I am a web designer and WordPress developer, and I’m very passionate and dedicated to my work.
 
@@ -23,7 +23,7 @@ Skills: JS / HTML / CSS/PHP/Bootstrap/Elementor/WordPress
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHSRiad)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RHSRiad&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/RHSRiad)  
 
