@@ -23,7 +23,7 @@ Skills: JS / HTML / CSS/PHP/Bootstrap/Elementor/WordPress
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHSRiad)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats]([https://github-readme-stats.vercel.app/api?username=RHSRiad&show_icons=true](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light)https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RHSRiad&show_icons=true](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light)https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light)  
 
 ![GitHub metrics](https://metrics.lecoq.io/RHSRiad)  
 
